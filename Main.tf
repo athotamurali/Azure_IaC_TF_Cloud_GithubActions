@@ -7,9 +7,9 @@ terraform {
     }
   }
   cloud {
-    organization = "CloudQuickLabs"
+    organization = "mmca"
     workspaces {
-      name = "AzureLabs"
+      name = "chowdary"
     }
   }
 }
